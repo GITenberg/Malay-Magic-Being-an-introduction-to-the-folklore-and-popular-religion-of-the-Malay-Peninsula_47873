@@ -1,4 +1,8 @@
 _repo: Malay-Magic-Being-an-introduction-to-the-folklore-and-popular-religion-of-the-Malay-Peninsula_47873
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47873-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Skeat, Walter W. (Walter William)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4590
     wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47873#Malay-Magic-Being-an-introduction-to-the-folklore-and-popular-religion-of-the-Malay-Peninsula
 gutenberg_issued: '2015-01-04'
 gutenberg_type: Text
 identifiers:
